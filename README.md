@@ -1,4 +1,5 @@
 # Node.js Server-Side Application Development
+![image](https://github.com/user-attachments/assets/c49e1e95-b77e-4fca-a07b-8047227bcf34)
 
 ## Project Overview
 
